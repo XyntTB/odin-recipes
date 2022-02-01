@@ -1,0 +1,66 @@
+h1 {
+  	color: hsl(12, 75%, 20%);
+	background-color: black;
+	text-align: center;
+}
+
+h2 {
+	color: lightskyblue;
+	background-color: lightslategrey;
+	font-size: 35px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+h3 {
+	color: limegreen;
+	background-color: mediumpurple;
+	font-size: 30px;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	text-align: center;
+}
+
+h4 {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 25px;
+	font: bold;
+}
+
+p {
+	font-size: 28px;
+	font: bold;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;	
+}
+
+ul, ol {
+	font-size: 28px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul {
+	color: mediumvioletred;
+	background-color: midnightblue;
+}
+
+ol {
+	background-color: black;
+	color: white;
+}
+
+.recipe {
+	background-color: rgba(255, 0, 212, 0.658);
+	font-size: 40px;
+	font-family: 'Times New Roman', Times, serif;
+	text-align: center;
+}
+
+.lul {
+	background-color: #ff0000;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.lasagne {
+	width: 400px;
+	height: 300px
+}
